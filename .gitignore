@@ -1,0 +1,28 @@
+# PlatformIO build directories
+.pio/
+**/.pio/
+
+# VS Code & editor configs
+.vscode/
+**/.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled binaries and object files
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.d
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and sensitive files
+*.env
+*.env.*
+*.local
